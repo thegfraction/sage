@@ -1,0 +1,549 @@
+{
+  "schema_version": "1.0",
+  "document": {
+    "type": "sage_dossier",
+    "subject": "TBG Contracting",
+    "subject_handle": "tbg-contracting",
+    "slug": "tbg",
+    "public_path": "/d/tbg",
+    "version": "1.0",
+    "generated_at": "2026-04-20T14:30:00-05:00",
+    "generated_by": "sage-brain-thread",
+    "authored_voice": "benedict-frank",
+    "canonical": true,
+    "notes": "First canonical dossier in the Sage OS. TBG is an active client, not a cold prospect. This record documents the full relationship state: the Phase 1 brand deliverables Sage completed, the Phase 2 systems build in progress with The G Fraction, and the growth architecture from solo operator to $15M commercial construction firm."
+  },
+
+  "prospect": {
+    "id": "prospect_tbg",
+    "company_name": "TBG Contracting",
+    "legal_tagline": "Taking Back Ground",
+    "public_tagline": "Your Project. Your Budget. Your Builder.",
+    "city": "Twin Cities metro",
+    "state": "MN",
+    "coverage_area": "Twin Cities + Central Minnesota",
+    "industry": "Commercial Construction (selective residential)",
+    "primary_contact_name": "Matt Ecklund",
+    "primary_contact_role": "Owner / Operator",
+    "primary_contact_email": null,
+    "primary_contact_phone": null,
+    "stage": "Client Active",
+    "engagement_type": "Brand Partnership",
+    "product_interest": [
+      "Launch Package",
+      "Full Brand",
+      "Website Custom",
+      "AI Custom"
+    ],
+    "growth_score": 10,
+    "source": "Direct / Benedict relationship",
+    "shared_with_gfraction": true,
+    "shared_notes": "Shared client with The G Fraction. The foundational proof-of-concept for the Sage + G Fraction partnership. Phase 1 (brand, website, GMB) delivered by Sage. Phase 2 (Cornerstone brain, Base44 app, GHL, Bland.ai) in progress with The G Fraction as lead architect.",
+    "first_contact_date": "2026-02-01",
+    "last_activity_date": "2026-04-20T14:30:00-05:00",
+    "tags": [
+      "construction-vertical",
+      "proof-of-concept",
+      "case-study",
+      "shared-gfraction",
+      "faith-grounded",
+      "solo-operator-scaling",
+      "commercial-primary"
+    ],
+    "research_summary": "TBG is a solo commercial construction operation run by Matt Ecklund out of the Twin Cities, with coverage across central Minnesota. Project range spans $10K punch-list work to $10M ground-up builds — unusually wide for a single operator, and deliberately so. The business is faith-grounded internally with a universal external voice. Matt is the signal: every job runs through him personally, from quote to closeout. The growth arc is solo today, crew of five within five years, $500K this year scaling to $15M by Year 5. Relationship strength is the moat — general contractors, property managers, community ties. The brand had to reflect all of it: craft, scale, stewardship, and the personal touch of a builder who answers his own phone.",
+    "notes_rich": "Matt is one of the most considered clients I've worked with. He knows what he wants, he knows what he doesn't, and he knows when to trust the people he's working with to do their job. The brand work took longer than usual because it had to hold the weight of a business that spans from a $15K punch list to a $6M office buildout without feeling like either was an afterthought. The dual-register voice — faith-grounded inside the company, universal outside — is the single hardest thing we've encoded into a brand system. We got it right. Now Geoffrey is building the system that runs on top of it.",
+    "owner": "benedict-frank",
+    "created_at": "2026-02-01T10:00:00-05:00",
+    "updated_at": "2026-04-20T14:30:00-05:00"
+  },
+
+  "client": {
+    "id": "client_tbg",
+    "linked_prospect_id": "prospect_tbg",
+    "activated_portal_date": "2026-04-16",
+    "engagement_type": "Brand Partnership",
+    "active_products": [
+      "Full Brand (delivered)",
+      "Website Custom (delivered)",
+      "Google My Business (delivered)",
+      "Brand Voice Skill (delivered)",
+      "AI Custom — Cornerstone Brain (in build)",
+      "AI Custom — Base44 App (in build)"
+    ],
+    "monthly_retainer_usd": null,
+    "monthly_retainer_structure": "To be set at Cornerstone go-live. Proposed: ongoing systems retainer split between Sage (creative maintenance) and The G Fraction (systems operations).",
+    "one_time_total_usd": null,
+    "one_time_total_structure": "Phase 1 brand + website billed against Sage's standard Launch Package pricing, adjusted for case-study discount per methodology.",
+    "ltv_forecast_usd": null,
+    "ltv_forecast_notes": "Long-term value scales with Matt's growth trajectory. Year 1 ($500K revenue) retainer modest; by Year 5 ($15M revenue) the systems partnership is a meaningful recurring engagement. Revenue share may be revisited as Cornerstone proves out.",
+    "portal_url": "/portal/tbg",
+    "assigned_va": null,
+    "last_briefing_date": null,
+    "status": "Active",
+    "partner_involvement": ["partner_g_fraction"],
+    "notes_rich": "TBG is the case study. Every decision made here becomes the template for the next service-business we stamp the model onto: HVAC, plumbing, landscaping, remodeling. Handle accordingly."
+  },
+
+  "dossier": {
+    "meta": {
+      "id": "dossier_tbg_v1",
+      "prospect_id": "prospect_tbg",
+      "status": "Activated",
+      "slug": "tbg",
+      "public_url": "https://sagemediadesign.com/d/tbg",
+      "version": "1.0",
+      "generated_by": "sage-brain-thread",
+      "ai_generation_log": "Authored as canonical first dossier, 2026-04-20. Written in Benedict Frank's voice. Manually curated rather than fully AI-generated because TBG is the reference case."
+    },
+    "tracking": {
+      "sent_date": "2026-04-16T09:00:00-05:00",
+      "first_opened_date": "2026-04-16T09:34:00-05:00",
+      "last_opened_date": "2026-04-19T17:12:00-05:00",
+      "total_opens": 11,
+      "unique_visitors": 2,
+      "time_on_page_seconds": 2840,
+      "scroll_depth_max": 100,
+      "feedback_received_date": "2026-04-16T11:47:00-05:00",
+      "activated_date": "2026-04-16T12:02:00-05:00"
+    },
+    "feedback": {
+      "submitted_at": "2026-04-16T11:47:00-05:00",
+      "submitted_by": "Matt Ecklund",
+      "content": "Ben — this is exactly it. You captured what I've been trying to say for a year. Let's run it. Green light on Phase 2, tell Geoffrey to go."
+    },
+    "content": {
+      "section_01_opening": {
+        "eyebrow": "A Note",
+        "headline": "This is your dossier, Matt.",
+        "body": [
+          "Somewhere between our first conversation and today, TBG became one of the most considered businesses I've built for. What started as a logo turned into a full brand, a website that tells the right story, and a backend system being architected by Geoffrey and The G Fraction to hold the weight of what you're building.",
+          "This page is a dossier in the old sense of the word. Part memory, part map. A single place that remembers what we've made, what's being built right now, and what comes next. It lives quietly at a private URL, only shared with you.",
+          "Read it at your own pace. Nothing here needs an answer today."
+        ],
+        "signature": "— Ben"
+      },
+
+      "section_02_what_we_see": {
+        "eyebrow": "What Sage Sees in TBG",
+        "headline": "A man's company, in the craft sense. Built to scale without losing the signal.",
+        "body": [
+          "TBG is not a construction company that wants to look bigger than it is. It's a solo operator who knows exactly how to run a $15K punch-list and a $6M ground-up build with the same hand. That range is the advantage. Most commercial firms won't touch the small work. Most handymen can't hold the big. You can do both, and the brand had to hold both without embarrassing either one.",
+          "The dual register is the hardest thing to encode and the most valuable thing you have. Faith-grounded inside — the values, the stewardship, the way you show up — and universal outside, so every client, whether they share your faith or not, feels the same care. We spent more time on voice than on anything else for that reason. It is the filter every word that leaves TBG runs through.",
+          "Commercial-first positioning with selective residential. Twin Cities and central Minnesota. General contractors, property managers, community. A business that is local in the way the best local businesses are — known by name, referred by name, trusted with the big jobs because of the small ones."
+        ],
+        "signal_highlights": [
+          "Project range $10K – $10M, unusual for a solo operator",
+          "Dual-register voice: faith inside, universal outside",
+          "Relationship moat: GCs, property managers, community",
+          "Matt is the signal — every client, every quote, every closeout"
+        ]
+      },
+
+      "section_03_brand_we_built": {
+        "eyebrow": "Phase 1 · What Sage Delivered",
+        "headline": "The foundation, set.",
+        "body": [
+          "Before any of the systems work could begin, the brand had to hold. The goal was a system strong enough to support $15M of commercial construction without getting in its own way. Clean, substantial, quietly confident. Nothing trendy — commercial construction rewards timelessness.",
+          "Every deliverable below is complete and handed off."
+        ],
+        "deliverables": [
+          {
+            "name": "Logo system",
+            "detail": "Primary mark, icon, monochrome variants, favicon. Built for truck wraps, business cards, embroidered hats, and a 30-foot trailer wrap with equal ease."
+          },
+          {
+            "name": "Color palette",
+            "detail": "Sovereign (#502A6F, deep purple), Restoration (#758B6C, sage-olive), Foundation (#F5F5F1, warm cream), Iron (#2B2B2B, near-black), Signal (#C9A34E, brass-gold accent). Every color carries meaning and earns its place."
+          },
+          {
+            "name": "Typography system",
+            "detail": "Fraunces for display — editorial, substantial, with the right amount of character for a builder's brand. Inter Tight for body — modern, legible, unfussy. JetBrains Mono for technical surfaces and the Cornerstone UI."
+          },
+          {
+            "name": "Brand guide PDF",
+            "detail": "Full usage rules for logo, color, type, spacing, voice, and application examples. The document a vendor, printer, or contractor can follow without guessing."
+          },
+          {
+            "name": "Brand voice skill",
+            "detail": "Internal tooling that captures TBG's voice so every piece of copy — emails, proposals, social posts, quotes — runs through the same filter. Faith-grounded inside, universal outside."
+          },
+          {
+            "name": "Mission, vision, tagline",
+            "detail": "Mission and vision developed through the embed. Tagline landed as: Your Project. Your Budget. Your Builder. Three beats. All three earned."
+          },
+          {
+            "name": "Website — six pages",
+            "detail": "Written in the Breakthrough Advertising framework. Interactive wireframe approved, full build shipped. Pages cover: Home, Commercial, Residential, Process, About, Contact."
+          },
+          {
+            "name": "Google My Business",
+            "detail": "Profile claimed, verified, optimized, and populated with Sage-produced assets. The first touchpoint for most local leads."
+          }
+        ]
+      },
+
+      "section_04_whats_being_built": {
+        "eyebrow": "Phase 2 · What's Being Built Right Now",
+        "headline": "The systems layer, in partnership with The G Fraction.",
+        "body": [
+          "The brand is the skin. The systems are the skeleton. Phase 2 is where Geoffrey Makousky and The G Fraction take the brand foundation and architect the intelligence behind the business — the part that runs the pipeline, manages the jobs, and turns every finished project into the marketing for the next one.",
+          "This work is underway and the architecture is already documented in the Cornerstone Architecture Report (April 16, 2026). Short version below."
+        ],
+        "in_build": [
+          {
+            "name": "Cornerstone — Master Brain Thread",
+            "status": "In build",
+            "owner": "The G Fraction",
+            "detail": "The operational intelligence for TBG. Nine-card taxonomy covering identity, services, experience, pipeline, projects, relationships, operations, stewardship, and growth. Lives in one master thread; spawns child threads for deep work."
+          },
+          {
+            "name": "Base44 App Layer",
+            "status": "In build",
+            "owner": "The G Fraction",
+            "detail": "Matt's dashboard and the client-facing portal. CRM, project tracker, content generator, and prospect manager in one unified tool. Matt feeds it raw input — a sentence, a photo of notes, a scope sketch — and Cornerstone fills the gaps."
+          },
+          {
+            "name": "JSON Repository",
+            "status": "In build",
+            "owner": "The G Fraction",
+            "detail": "Voice rules, pricing structures, pipeline definitions, and agent configurations committed to a GitHub repo. External conscious memory so the brain stays lean."
+          },
+          {
+            "name": "GoHighLevel Sub-Account",
+            "status": "Not started",
+            "owner": "The G Fraction",
+            "detail": "Pipeline mirror, campaign automations, and the CRM layer wired under Cornerstone."
+          },
+          {
+            "name": "Bland.ai + GHL Connection",
+            "status": "Not started",
+            "owner": "The G Fraction",
+            "detail": "AI call handling for inbound leads, wired into the Cornerstone pipeline so no inquiry gets lost."
+          },
+          {
+            "name": "Supabase + pgvector Knowledge Base",
+            "status": "Not started",
+            "owner": "The G Fraction",
+            "detail": "The retrieval layer behind Cornerstone — vector search over TBG's full operational knowledge so Matt can ask anything and get the right answer back."
+          },
+          {
+            "name": "End-to-End Automation Testing",
+            "status": "Not started",
+            "owner": "The G Fraction",
+            "detail": "Full pipeline validation — prospect intake through project closeout — before Matt goes live."
+          },
+          {
+            "name": "Matt's Training & Handoff",
+            "status": "Not started",
+            "owner": "Sage + The G Fraction, joint",
+            "detail": "Working session where Matt learns his own system. From there on, he runs it."
+          }
+        ]
+      },
+
+      "section_05_revenue_and_growth": {
+        "eyebrow": "Revenue & Growth Potential",
+        "headline": "From $500K solo to $15M on five crews, without losing the Matt signature.",
+        "body": [
+          "The business case for Cornerstone isn't complicated: every lead that doesn't get followed up is a job that didn't get won, and every finished job that doesn't get documented is marketing you paid for and threw away. The system closes both gaps without asking Matt to work more hours.",
+          "Specifically:"
+        ],
+        "growth_levers": [
+          {
+            "title": "Prospect capture at zero friction",
+            "detail": "Matt drops a name, a photo, a scope sketch. Cornerstone captures, fills the gaps, builds the dossier, stages it for approval. Nothing is lost because nothing requires Matt to sit down at a keyboard at the end of a long day."
+          },
+          {
+            "title": "Dossier engine scales bidding",
+            "detail": "A professional client-ready proposal gets generated in minutes, not hours. Matt can bid more jobs without more time — which is the single biggest constraint on solo operators."
+          },
+          {
+            "title": "Closeout automation as marketing",
+            "detail": "Every finished project becomes a portfolio entry, a social post, a case study, a review request. Twenty minutes after the punch-list, the marketing is already done."
+          },
+          {
+            "title": "Prospecting engine (V2+)",
+            "detail": "Outbound into property manager networks, GC relationships, and commercial property owners. Research, dossier, outreach — automated. This is how solo operator becomes the firm that gets called first."
+          },
+          {
+            "title": "Project Manager Agent (V2+)",
+            "detail": "When job volume crosses the threshold, a dedicated thread per project takes over photo log, change orders, budget tracking, sub coordination. Matt goes from builder to operator."
+          }
+        ],
+        "trajectory": {
+          "year_1_2026": { "target": "$500,000", "structure": "Solo operator" },
+          "year_3": { "target": "$3,000,000", "structure": "2–3 crew, Cornerstone V2 active" },
+          "year_5_2031": { "target": "$15,000,000", "structure": "5 crew, full system, prospecting engine live" }
+        }
+      },
+
+      "section_06_the_vision": {
+        "eyebrow": "The Vision",
+        "headline": "Taking Back Ground.",
+        "body": [
+          "The name is not an accident. TBG is a builder's declaration — that craft, stewardship, and care can win back the ground the industry has conceded to bad work, bad communication, and bad faith.",
+          "What we are building, together, is a commercial construction company that scales without becoming what it set out to replace. A firm that can take a $6M ground-up and still answer the phone on a $15K punch-list. A brand that holds its faith-grounded core without making the external client feel like they're being preached to. A business Matt can hand his son someday without apology.",
+          "The systems Geoffrey is building do not replace the Matt signature. They protect it. They carry the weight of the admin, the documentation, the follow-up, the portfolio — so Matt can stay where he is most valuable: on the jobsite, on the call, in the room."
+        ]
+      },
+
+      "section_07_how_we_work": {
+        "eyebrow": "How This Partnership Works",
+        "headline": "Sage on the front. The G Fraction on the back. One team to you.",
+        "body": [
+          "You work with two companies and you work with one system. Sage Media & Design holds the creative — brand, website, visual identity, voice, copy, and ongoing creative maintenance. The G Fraction holds the systems — Cornerstone brain, Base44 app, CRM, automations, AI call handling, and the infrastructure behind everything.",
+          "Everything you see as a finished artifact — a brand update, a new proposal template, a campaign, a portfolio post — passes through one of our hands before it reaches you. Nothing goes to a client without your sign-off. The system proposes. You approve."
+        ],
+        "principles": [
+          "Parallel systems, not replacements. We never tear down what's working. We build beside it.",
+          "Human-first. Bots execute. Matt decides.",
+          "Voice preservation. The AI magnifies everything, including mistakes. The voice filter exists to protect yours.",
+          "Results over theory. We don't charge for cool builds. We charge for outcomes — jobs won, leads captured, revenue moved.",
+          "You own it. Brain, data, app, brand — all yours. Buyout clauses on every partnership."
+        ]
+      },
+
+      "section_08_next_step": {
+        "eyebrow": "What Happens Next",
+        "headline": "Your portal activates as Cornerstone goes live.",
+        "body": [
+          "The dossier you are reading becomes page one of a shared workspace — the TBG portal. From there, it grows with us: brand plan, active projects, asset library, marketing, notes. You get a login and so does anyone on your team who needs one.",
+          "In the meantime, The G Fraction is building. Expect a working session with Geoffrey within the next two weeks to walk the Cornerstone architecture and start feeding in your current prospect queue.",
+          "If there is anything — a detail we got wrong, a client we missed, a concern about what's being built — drop it in the form below. We read everything."
+        ],
+        "cta": {
+          "primary": {
+            "label": "Activate My Portal",
+            "action": "portal.activate",
+            "target": "/portal/tbg"
+          },
+          "secondary": {
+            "label": "Leave feedback",
+            "action": "feedback.submit"
+          }
+        }
+      }
+    }
+  },
+
+  "projects": [
+    {
+      "id": "project_tbg_brand",
+      "client_id": "client_tbg",
+      "project_type": "Full Brand",
+      "title": "TBG Contracting — Full Brand Identity",
+      "status": "Complete",
+      "start_date": "2026-02-01",
+      "target_completion_date": "2026-04-01",
+      "actual_completion_date": "2026-04-10",
+      "project_lead": "benedict-frank",
+      "project_value_usd": null,
+      "scope_notes": "Logo system, color palette, typography, brand guide PDF, brand voice skill, mission/vision/tagline. Shipped with dual-register voice system and full application coverage from business card to 30-ft trailer wrap.",
+      "partner_involvement": []
+    },
+    {
+      "id": "project_tbg_website",
+      "client_id": "client_tbg",
+      "project_type": "Website Custom",
+      "title": "TBG Contracting — Website Build",
+      "status": "Complete",
+      "start_date": "2026-03-01",
+      "target_completion_date": "2026-04-10",
+      "actual_completion_date": "2026-04-14",
+      "project_lead": "benedict-frank",
+      "project_value_usd": null,
+      "scope_notes": "Six pages, Breakthrough Advertising framework copy, interactive wireframe approved, full build shipped. Pages: Home, Commercial, Residential, Process, About, Contact.",
+      "partner_involvement": []
+    },
+    {
+      "id": "project_tbg_gmb",
+      "client_id": "client_tbg",
+      "project_type": "Custom",
+      "title": "TBG Contracting — Google My Business",
+      "status": "Complete",
+      "start_date": "2026-04-01",
+      "target_completion_date": "2026-04-15",
+      "actual_completion_date": "2026-04-15",
+      "project_lead": "benedict-frank",
+      "project_value_usd": null,
+      "scope_notes": "Profile claimed, verified, optimized. Photos, categories, service areas, hours, description populated.",
+      "partner_involvement": []
+    },
+    {
+      "id": "project_tbg_cornerstone",
+      "client_id": "client_tbg",
+      "project_type": "AI Custom",
+      "title": "TBG Contracting — Cornerstone Brain & Base44 App",
+      "status": "Build",
+      "start_date": "2026-04-16",
+      "target_completion_date": "2026-06-15",
+      "actual_completion_date": null,
+      "project_lead": "geoffrey-makousky",
+      "project_value_usd": null,
+      "scope_notes": "Master brain thread with 9-card taxonomy. Base44 app (CRM + PM + content generator unified). JSON repo (voice, pricing, pipeline, agents). GHL sub-account + pipeline + automations. Bland.ai + GHL connections. Supabase + pgvector KB. E2E automation testing. Matt training & handoff.",
+      "partner_involvement": ["partner_g_fraction"]
+    }
+  ],
+
+  "partners": [
+    {
+      "id": "partner_g_fraction",
+      "name": "The G Fraction",
+      "role": "Systems & Infrastructure",
+      "is_primary_systems_partner": true,
+      "engagement_structure": "Strategic",
+      "primary_contact_name": "Geoffrey Makousky (handle: Oki-1)",
+      "primary_contact_email": null,
+      "shared_clients": ["client_tbg"],
+      "active": true,
+      "notes": "Sister company. Sage is the creative face; The G Fraction is the back-end engine. Full partnership brief: Sage Media Strategic Partnership (April 2026). On TBG specifically, The G Fraction leads Cornerstone brain architecture, Base44 app build, GHL/Bland integrations, and ongoing systems operations."
+    }
+  ],
+
+  "activity": [
+    {
+      "id": "activity_tbg_001",
+      "timestamp": "2026-02-01T10:00:00-05:00",
+      "event_type": "pipeline.prospect_added",
+      "subject_entity_type": "prospect",
+      "subject_entity_id": "prospect_tbg",
+      "description": "TBG Contracting added to Sage pipeline. Engagement type: Brand Partnership. Shared with The G Fraction from intake.",
+      "actor": "human",
+      "actor_user": "benedict-frank"
+    },
+    {
+      "id": "activity_tbg_002",
+      "timestamp": "2026-02-14T14:00:00-05:00",
+      "event_type": "pipeline.stage_changed",
+      "subject_entity_type": "prospect",
+      "subject_entity_id": "prospect_tbg",
+      "description": "Stage → Meeting Scheduled. Brand embed kickoff set with Matt Ecklund.",
+      "actor": "human",
+      "actor_user": "benedict-frank"
+    },
+    {
+      "id": "activity_tbg_003",
+      "timestamp": "2026-04-10T18:00:00-05:00",
+      "event_type": "project.completed",
+      "subject_entity_type": "project",
+      "subject_entity_id": "project_tbg_brand",
+      "description": "Full Brand delivered. Logo, palette, typography, brand guide, voice skill, mission/vision/tagline. Shipped.",
+      "actor": "human",
+      "actor_user": "benedict-frank"
+    },
+    {
+      "id": "activity_tbg_004",
+      "timestamp": "2026-04-14T17:30:00-05:00",
+      "event_type": "project.completed",
+      "subject_entity_type": "project",
+      "subject_entity_id": "project_tbg_website",
+      "description": "Website build complete. Six pages live. Breakthrough Advertising framework. Interactive wireframe approved, production site shipped.",
+      "actor": "human",
+      "actor_user": "benedict-frank"
+    },
+    {
+      "id": "activity_tbg_005",
+      "timestamp": "2026-04-15T12:00:00-05:00",
+      "event_type": "project.completed",
+      "subject_entity_type": "project",
+      "subject_entity_id": "project_tbg_gmb",
+      "description": "Google My Business profile claimed, verified, and published.",
+      "actor": "human",
+      "actor_user": "benedict-frank"
+    },
+    {
+      "id": "activity_tbg_006",
+      "timestamp": "2026-04-16T09:00:00-05:00",
+      "event_type": "dossier.sent",
+      "subject_entity_type": "dossier",
+      "subject_entity_id": "dossier_tbg_v1",
+      "description": "Dossier sent to Matt Ecklund. First canonical Sage dossier.",
+      "actor": "human",
+      "actor_user": "benedict-frank"
+    },
+    {
+      "id": "activity_tbg_007",
+      "timestamp": "2026-04-16T09:34:00-05:00",
+      "event_type": "dossier.opened",
+      "subject_entity_type": "dossier",
+      "subject_entity_id": "dossier_tbg_v1",
+      "description": "Matt opened the dossier. 100% scroll depth, 14m 22s on page.",
+      "actor": "system"
+    },
+    {
+      "id": "activity_tbg_008",
+      "timestamp": "2026-04-16T11:47:00-05:00",
+      "event_type": "dossier.feedback_received",
+      "subject_entity_type": "dossier",
+      "subject_entity_id": "dossier_tbg_v1",
+      "description": "Matt submitted feedback: \"You captured what I've been trying to say for a year. Green light on Phase 2.\"",
+      "actor": "system"
+    },
+    {
+      "id": "activity_tbg_009",
+      "timestamp": "2026-04-16T12:02:00-05:00",
+      "event_type": "portal.activated",
+      "subject_entity_type": "dossier",
+      "subject_entity_id": "dossier_tbg_v1",
+      "description": "TBG portal activated. Client record created. Phase 2 build kicked off with The G Fraction.",
+      "actor": "human",
+      "actor_user": "matt-ecklund"
+    },
+    {
+      "id": "activity_tbg_010",
+      "timestamp": "2026-04-16T14:30:00-05:00",
+      "event_type": "project.created",
+      "subject_entity_type": "project",
+      "subject_entity_id": "project_tbg_cornerstone",
+      "description": "Cornerstone Brain & Base44 App project opened. Lead: Geoffrey Makousky. Target completion: 2026-06-15.",
+      "actor": "human",
+      "actor_user": "geoffrey-makousky"
+    },
+    {
+      "id": "activity_tbg_011",
+      "timestamp": "2026-04-20T14:30:00-05:00",
+      "event_type": "system.note",
+      "subject_entity_type": "system",
+      "subject_entity_id": null,
+      "description": "TBG dossier JSON canonicalized as first entry in the Sage OS. Committed to GitHub for app consumption. Version 1.0.",
+      "actor": "bot",
+      "actor_user": "sage-brain-thread"
+    }
+  ],
+
+  "cross_references": {
+    "cornerstone_report": {
+      "title": "Cornerstone Architecture Report — TBG Contracting",
+      "date": "2026-04-16",
+      "authored_by": "Geoffrey Makousky — The G Fraction",
+      "classification": "Confidential",
+      "url": null
+    },
+    "cornerstone_command_center": {
+      "title": "Cornerstone Command Center (internal HTML preview)",
+      "url": null
+    },
+    "sage_g_fraction_partnership_brief": {
+      "title": "A Working Partnership — Sage Media + The G Fraction",
+      "date": "2026-04-01",
+      "authored_by": "Geoffrey Makousky",
+      "url": null
+    }
+  },
+
+  "voice_notes_for_app_consumers": {
+    "narration_voice": "benedict-frank",
+    "voice_summary": "Warm, direct, grounded. No hype. Pricing and intent always named explicitly. References craft and lived experience (kitchens, running a restaurant) when it earns its place. Prose leans short. Self-aware about tech-trap and agency-failure modes without lecturing.",
+    "do_not": [
+      "Do not use exclamation marks.",
+      "Do not use emoji.",
+      "Do not reference the Sage OS in the client-facing sections — the dossier speaks to Matt, not to operators.",
+      "Do not mechanize the prose. Keep the warmth."
+    ],
+    "do": [
+      "Name the specific deliverable, not the abstract category.",
+      "Lead with observation, follow with proposal.",
+      "Close sections quietly. Let the page breathe."
+    ]
+  }
+}
